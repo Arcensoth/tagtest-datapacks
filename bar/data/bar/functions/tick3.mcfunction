@@ -1,0 +1,1 @@
+tellraw @s [{"text": "bar:tick3"}]

@@ -1,0 +1,1 @@
+say foo:load1
